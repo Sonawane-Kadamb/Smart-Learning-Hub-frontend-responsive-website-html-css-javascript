@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100;
+  }
+}
+
+@layer components {
+  /* Glass Card Effect */
+  .glass-card {
+    @apply bg-white/70 dark:bg-gray-800/70 backdrop-blur-xl border border-gray-200/50 dark:border-gray-700/50 rounded-2xl shadow-lg transition-all duration-300;
+  }
+
+  /* Primary Button */
+  .btn-primary {
+    @apply px-6 py-3 bg-gradient-to-r from-royal-blue to-deep-indigo text-white rounded-xl shadow-lg hover:shadow-glow transition-all duration-300;
+  }
+
+  /* Secondary Button */
+  .btn-secondary {
+    @apply px-6 py-3 bg-white dark:bg-gray-800 text-gray-900 dark:text-white border-2 border-royal-blue dark:border-soft-purple rounded-xl hover:bg-royal-blue hover:text-white dark:hover:bg-soft-purple transition-all duration-300;
+  }
+}

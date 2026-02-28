@@ -1,0 +1,49 @@
+{
+  "profile": {
+    "name": "Aarav Sharma",
+    "avatar": "https://ui-avatars.com/api/?name=Aarav+Sharma&background=4338ca&color=fff&size=200",
+    "class": "SSC 10th Standard",
+    "school": "Maharashtra State Board",
+    "location": "Mumbai, Maharashtra",
+    "studyStreak": 15,
+    "totalStudyHours": 245,
+    "rank": 42,
+    "level": 8,
+    "xp": 3450,
+    "nextLevelXp": 4000
+  },
+  "weeklyPerformance": [
+    { "day": "Mon", "hours": 3.5, "completed": 8 },
+    { "day": "Tue", "hours": 4.2, "completed": 12 },
+    { "day": "Wed", "hours": 2.8, "completed": 6 },
+    { "day": "Thu", "hours": 5.1, "completed": 15 },
+    { "day": "Fri", "hours": 3.9, "completed": 10 },
+    { "day": "Sat", "hours": 6.5, "completed": 18 },
+    { "day": "Sun", "hours": 4.8, "completed": 14 }
+  ],
+  "subjectProgress": [
+    { "subject": "Mathematics", "progress": 72, "color": "#3b82f6" },
+    { "subject": "Science", "progress": 65, "color": "#10b981" },
+    { "subject": "English", "progress": 82, "color": "#ef4444" },
+    { "subject": "Marathi", "progress": 78, "color": "#6366f1" },
+    { "subject": "Social Science", "progress": 70, "color": "#14b8a6" }
+  ],
+  "recentActivities": [
+    { "id": 1, "type": "test", "title": "Mathematics Mock Test 5", "score": 85, "time": "2 hours ago" },
+    { "id": 2, "type": "video", "title": "Quadratic Equations Explained", "time": "5 hours ago" },
+    { "id": 3, "type": "note", "title": "Trigonometry Formulas", "time": "1 day ago" },
+    { "id": 4, "type": "test", "title": "Science Practice Test", "score": 78, "time": "2 days ago" }
+  ],
+  "bookmarks": [
+    { "id": 1, "title": "Important Geometry Theorems", "subject": "Mathematics", "type": "note" },
+    { "id": 2, "title": "Chemical Reactions Video", "subject": "Science", "type": "video" },
+    { "id": 3, "title": "Essay Writing Tips", "subject": "English", "type": "note" }
+  ],
+  "achievements": [
+    { "id": 1, "title": "7-Day Streak", "icon": "🔥", "unlocked": true },
+    { "id": 2, "title": "100 Tests Completed", "icon": "📝", "unlocked": true },
+    { "id": 3, "title": "Top 50 Rank", "icon": "🏆", "unlocked": true },
+    { "id": 4, "title": "Perfect Score", "icon": "⭐", "unlocked": false },
+    { "id": 5, "title": "30-Day Streak", "icon": "🎯", "unlocked": false }
+  ]
+}

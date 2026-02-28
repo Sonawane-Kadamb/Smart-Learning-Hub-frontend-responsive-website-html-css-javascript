@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Mathematics Part 1",
+    "icon": "📐",
+    "color": "from-blue-500 to-cyan-500",
+    "chapters": [
+      { "id": 1, "title": "Linear Equations in Two Variables", "difficulty": "Medium", "progress": 85 },
+      { "id": 2, "title": "Quadratic Equations", "difficulty": "Hard", "progress": 60 },
+      { "id": 3, "title": "Arithmetic Progression", "difficulty": "Easy", "progress": 100 },
+      { "id": 4, "title": "Financial Planning", "difficulty": "Medium", "progress": 45 },
+      { "id": 5, "title": "Probability", "difficulty": "Medium", "progress": 30 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mathematics Part 2",
+    "icon": "🔢",
+    "color": "from-purple-500 to-pink-500",
+    "chapters": [
+      { "id": 6, "title": "Similarity", "difficulty": "Medium", "progress": 75 },
+      { "id": 7, "title": "Pythagoras Theorem", "difficulty": "Easy", "progress": 90 },
+      { "id": 8, "title": "Circle", "difficulty": "Hard", "progress": 55 },
+      { "id": 9, "title": "Co-ordinate Geometry", "difficulty": "Medium", "progress": 65 },
+      { "id": 10, "title": "Trigonometry", "difficulty": "Hard", "progress": 40 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Science & Technology Part 1",
+    "icon": "🔬",
+    "color": "from-green-500 to-emerald-500",
+    "chapters": [
+      { "id": 11, "title": "Gravitation", "difficulty": "Medium", "progress": 70 },
+      { "id": 12, "title": "Work and Energy", "difficulty": "Easy", "progress": 85 },
+      { "id": 13, "title": "Current Electricity", "difficulty": "Hard", "progress": 50 },
+      { "id": 14, "title": "Heat", "difficulty": "Medium", "progress": 60 },
+      { "id": 15, "title": "Lenses", "difficulty": "Medium", "progress": 55 }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Science & Technology Part 2",
+    "icon": "⚗️",
+    "color": "from-yellow-500 to-orange-500",
+    "chapters": [
+      { "id": 16, "title": "Heredity and Evolution", "difficulty": "Hard", "progress": 45 },
+      { "id": 17, "title": "Life Processes in Living Organisms", "difficulty": "Medium", "progress": 80 },
+      { "id": 18, "title": "Chemical Reactions", "difficulty": "Easy", "progress": 95 },
+      { "id": 19, "title": "Carbon Compounds", "difficulty": "Hard", "progress": 35 },
+      { "id": 20, "title": "Environmental Management", "difficulty": "Easy", "progress": 100 }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "English",
+    "icon": "📚",
+    "color": "from-red-500 to-rose-500",
+    "chapters": [
+      { "id": 21, "title": "Reading Comprehension", "difficulty": "Medium", "progress": 70 },
+      { "id": 22, "title": "Grammar and Composition", "difficulty": "Easy", "progress": 88 },
+      { "id": 23, "title": "Poetry Analysis", "difficulty": "Medium", "progress": 65 },
+      { "id": 24, "title": "Essay Writing", "difficulty": "Medium", "progress": 72 },
+      { "id": 25, "title": "Letter Writing", "difficulty": "Easy", "progress": 90 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Marathi",
+    "icon": "🗣️",
+    "color": "from-indigo-500 to-blue-500",
+    "chapters": [
+      { "id": 26, "title": "वाचन कौशल्य", "difficulty": "Easy", "progress": 85 },
+      { "id": 27, "title": "व्याकरण", "difficulty": "Medium", "progress": 75 },
+      { "id": 28, "title": "निबंध लेखन", "difficulty": "Medium", "progress": 68 },
+      { "id": 29, "title": "पत्रलेखन", "difficulty": "Easy", "progress": 92 },
+      { "id": 30, "title": "कविता", "difficulty": "Medium", "progress": 60 }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Social Science",
+    "icon": "🌍",
+    "color": "from-teal-500 to-cyan-500",
+    "chapters": [
+      { "id": 31, "title": "History - Nationalism", "difficulty": "Medium", "progress": 77 },
+      { "id": 32, "title": "Geography - Climate", "difficulty": "Easy", "progress": 82 },
+      { "id": 33, "title": "Civics - Democracy", "difficulty": "Medium", "progress": 70 },
+      { "id": 34, "title": "Economics - Development", "difficulty": "Hard", "progress": 48 },
+      { "id": 35, "title": "Disaster Management", "difficulty": "Easy", "progress": 95 }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "title": "Complete SSC Mathematics Mastery",
+    "instructor": "Dr. Rajesh Patil",
+    "thumbnail": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=400",
+    "duration": "40 hours",
+    "lessons": 120,
+    "enrolled": 15420,
+    "rating": 4.8,
+    "price": "Free",
+    "category": "Mathematics",
+    "progress": 45,
+    "chapters": [
+      { "id": 1, "title": "Introduction to Algebra", "duration": "2h 30m", "completed": true },
+      { "id": 2, "title": "Quadratic Equations Deep Dive", "duration": "3h 15m", "completed": true },
+      { "id": 3, "title": "Geometry Fundamentals", "duration": "2h 45m", "completed": false },
+      { "id": 4, "title": "Trigonometry Basics", "duration": "3h 00m", "completed": false }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Science Practical Experiments",
+    "instructor": "Prof. Sunita Deshmukh",
+    "thumbnail": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400",
+    "duration": "25 hours",
+    "lessons": 85,
+    "enrolled": 12350,
+    "rating": 4.9,
+    "price": "Free",
+    "category": "Science",
+    "progress": 60,
+    "chapters": [
+      { "id": 1, "title": "Lab Safety and Equipment", "duration": "1h 30m", "completed": true },
+      { "id": 2, "title": "Physics Experiments", "duration": "4h 00m", "completed": true },
+      { "id": 3, "title": "Chemistry Practicals", "duration": "3h 30m", "completed": true },
+      { "id": 4, "title": "Biology Dissections", "duration": "2h 45m", "completed": false }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "English Communication Skills",
+    "instructor": "Ms. Priya Sharma",
+    "thumbnail": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=400",
+    "duration": "30 hours",
+    "lessons": 95,
+    "enrolled": 18900,
+    "rating": 4.7,
+    "price": "Free",
+    "category": "English",
+    "progress": 75,
+    "chapters": [
+      { "id": 1, "title": "Grammar Essentials", "duration": "3h 00m", "completed": true },
+      { "id": 2, "title": "Reading Comprehension", "duration": "2h 30m", "completed": true },
+      { "id": 3, "title": "Writing Skills", "duration": "3h 45m", "completed": true },
+      { "id": 4, "title": "Speaking Practice", "duration": "2h 15m", "completed": false }
+    ]
+  }
+]

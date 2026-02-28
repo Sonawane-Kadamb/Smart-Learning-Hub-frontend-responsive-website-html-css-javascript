@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "title": "Mathematics Full Test - Part 1",
+    "subject": "Mathematics Part 1",
+    "duration": 60,
+    "totalQuestions": 30,
+    "questions": [
+      {
+        "id": 1,
+        "question": "If 2x + 3y = 12 and x - y = 1, what is the value of x?",
+        "options": ["3", "4", "5", "6"],
+        "correctAnswer": 0,
+        "explanation": "Solving the simultaneous equations: x = 3, y = 2"
+      },
+      {
+        "id": 2,
+        "question": "The roots of the equation x² - 5x + 6 = 0 are:",
+        "options": ["2, 3", "1, 6", "-2, -3", "3, 4"],
+        "correctAnswer": 0,
+        "explanation": "Factoring: (x-2)(x-3) = 0, so x = 2 or x = 3"
+      },
+      {
+        "id": 3,
+        "question": "The 10th term of the AP 3, 7, 11, 15... is:",
+        "options": ["39", "40", "41", "42"],
+        "correctAnswer": 0,
+        "explanation": "Using formula: a + (n-1)d = 3 + 9(4) = 39"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Science Quick Test - 15 mins",
+    "subject": "Science & Technology Part 1",
+    "duration": 15,
+    "totalQuestions": 10,
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the SI unit of force?",
+        "options": ["Newton", "Joule", "Watt", "Pascal"],
+        "correctAnswer": 0,
+        "explanation": "Newton (N) is the SI unit of force, defined as kg⋅m/s²"
+      },
+      {
+        "id": 2,
+        "question": "The value of acceleration due to gravity on Earth is approximately:",
+        "options": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "11 m/s²"],
+        "correctAnswer": 0,
+        "explanation": "Standard gravitational acceleration is 9.8 m/s²"
+      }
+    ]
+  }
+]

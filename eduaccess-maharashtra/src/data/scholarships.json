@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "National Talent Search Examination (NTSE)",
+    "type": "scholarship",
+    "deadline": "2026-03-15",
+    "amount": "₹1,25,000 per year",
+    "eligibility": "SSC 10th students with 60%+ marks",
+    "status": "Open",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "title": "Maharashtra State Board Exam 2026",
+    "type": "exam",
+    "deadline": "2026-03-01",
+    "description": "SSC Board Examination - Main Exam",
+    "status": "Upcoming",
+    "priority": "critical"
+  },
+  {
+    "id": 3,
+    "title": "Pre-Foundation Career Care Scholarship",
+    "type": "scholarship",
+    "deadline": "2026-04-20",
+    "amount": "₹50,000",
+    "eligibility": "Class 10 students aspiring for competitive exams",
+    "status": "Open",
+    "priority": "medium"
+  },
+  {
+    "id": 4,
+    "title": "Junior Science Olympiad",
+    "type": "exam",
+    "deadline": "2026-02-28",
+    "description": "National level science competition",
+    "status": "Closing Soon",
+    "priority": "high"
+  }
+]
