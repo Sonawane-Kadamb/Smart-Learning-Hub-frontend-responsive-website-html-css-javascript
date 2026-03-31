@@ -290,4 +290,4 @@ Built with ❤️ for Maharashtra SSC 10th Students
 
 **🎯 Note:** This is a frontend-only UI/UX demonstration. All features use mock data.
 
-**🌐 Live Demo:** Run `npm run dev` and visit http://localhost:5173
+**🌐 Live Demo:** https://smart-learning-hub-frontend-responsive-website-html-233ds7uq9.vercel.app/
